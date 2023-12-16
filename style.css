@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Open Sans";
+    font-family: "Open Sans bold";
 }
 
 body {
@@ -11,7 +11,7 @@ body {
     justify-content: center;
     padding: 0 10px;
     min-height: 100vh;
-    background: #2c3e50;
+    background: #c3b37bd2;
 }
 
 form {
@@ -20,7 +20,7 @@ form {
     max-width: 500px;
     width: 100%;
     border-radius: 7px;
-    color: #2c3e50;
+    color: #042f5a;
 }
 
 form h2 {
@@ -102,9 +102,12 @@ form select:focus {
  }
 
  .submit-btn input:hover {
-    background: #1a1a1a;
+    background: #171616;
  }
 
  .submit-btn input:active {
     transform: scale(0.95);
  }
+
+
+ 
